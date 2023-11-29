@@ -35,6 +35,7 @@ class Array_Study_03
 
 		// 방법 3
 		System.arraycopy(ballArr, 0, ball3, 0, 3);
+		//(원본 배열, 복사 시작 인덱스, 새 배열, 붙여넣기 시작할 인덱스, 복사할 개수)
 
 
 //		System.out.println(ball3[0] + " " + ball3[1] + " " + ball3[2]);
